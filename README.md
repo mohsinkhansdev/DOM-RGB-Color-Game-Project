@@ -1,2 +1,3 @@
 # DOM-RGB-Color-Game-Project
-https://mohsinkhansdev.github.io/DOM-RGB-Color-Game-Project/ Check the Result through link.
+Its a RGB Guessing Color Game Check through link.
+https://mohsinkhansdev.github.io/DOM-RGB-Color-Game-Project/ 
